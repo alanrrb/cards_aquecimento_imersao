@@ -1,0 +1,6 @@
+Hello -> Olá
+Olá -> Hello
+Hello -> Olá
+Hello -> Ola
+Door -> Porta
+apple -> maça
